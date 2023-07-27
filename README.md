@@ -36,7 +36,7 @@ This simple Java program allows you to build a Tree with the option of adding a 
   $ java Tree
   Enter the height of the tree: 5
   Do you want a star on top of the tree? (y/n): y
-
+      *
       X
      XXX
     XXXXX
